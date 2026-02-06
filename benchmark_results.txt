@@ -1,0 +1,113 @@
+Total Successful Runs: 100/100
+
+--- Average Performance ---
+Avg. Cycles Ref:  238608
+Avg. Cycles RVV:  530536
+Avg. Speedup:     0.45x
+
+--- Extreme Cases ---
+Best Run:  1.01x speedup (RVV Cycles: 512490)
+Worst Run: 0.32x speedup (RVV Cycles: 690129)
+
+--------- Individual Run Details ---------
+
+Run   1 | Ref:   232485 | RVV:   527967 | Speedup: 0.4403x | Verify: PASS
+Run   2 | Ref:   222783 | RVV:   509058 | Speedup: 0.4376x | Verify: PASS
+Run   3 | Ref:   225126 | RVV:   537240 | Speedup: 0.4190x | Verify: PASS
+Run   4 | Ref:   223377 | RVV:   491997 | Speedup: 0.4540x | Verify: PASS
+Run   5 | Ref:   221067 | RVV:   505791 | Speedup: 0.4371x | Verify: PASS
+Run   6 | Ref:   219912 | RVV:   493218 | Speedup: 0.4459x | Verify: PASS
+Run   7 | Ref:   296802 | RVV:   496419 | Speedup: 0.5979x | Verify: PASS
+Run   8 | Ref:   223971 | RVV:   520773 | Speedup: 0.4301x | Verify: PASS
+Run   9 | Ref:   315084 | RVV:   503118 | Speedup: 0.6263x | Verify: PASS
+Run  10 | Ref:   223113 | RVV:   531366 | Speedup: 0.4199x | Verify: PASS
+Run  11 | Ref:   224862 | RVV:   509817 | Speedup: 0.4411x | Verify: PASS
+Run  12 | Ref:   235719 | RVV:   548460 | Speedup: 0.4298x | Verify: PASS
+Run  13 | Ref:   219747 | RVV:   507837 | Speedup: 0.4327x | Verify: PASS
+Run  14 | Ref:   219450 | RVV:   497871 | Speedup: 0.4408x | Verify: PASS
+Run  15 | Ref:   310035 | RVV:   508860 | Speedup: 0.6093x | Verify: PASS
+Run  16 | Ref:   329637 | RVV:   545820 | Speedup: 0.6039x | Verify: PASS
+Run  17 | Ref:   229350 | RVV:   523512 | Speedup: 0.4381x | Verify: PASS
+Run  18 | Ref:   220341 | RVV:   539649 | Speedup: 0.4083x | Verify: PASS
+Run  19 | Ref:   224367 | RVV:   528000 | Speedup: 0.4249x | Verify: PASS
+Run  20 | Ref:   228393 | RVV:   536811 | Speedup: 0.4255x | Verify: PASS
+Run  21 | Ref:   222981 | RVV:   529518 | Speedup: 0.4211x | Verify: PASS
+Run  22 | Ref:   246345 | RVV:   500676 | Speedup: 0.4920x | Verify: PASS
+Run  23 | Ref:   223806 | RVV:   682902 | Speedup: 0.3277x | Verify: PASS
+Run  24 | Ref:   234762 | RVV:   513678 | Speedup: 0.4570x | Verify: PASS
+Run  25 | Ref:   213510 | RVV:   512061 | Speedup: 0.4170x | Verify: PASS
+Run  26 | Ref:   219582 | RVV:   505362 | Speedup: 0.4345x | Verify: PASS
+Run  27 | Ref:   234399 | RVV:   589248 | Speedup: 0.3978x | Verify: PASS
+Run  28 | Ref:   220539 | RVV:   501996 | Speedup: 0.4393x | Verify: PASS
+Run  29 | Ref:   215193 | RVV:   505560 | Speedup: 0.4257x | Verify: PASS
+Run  30 | Ref:   295746 | RVV:   554532 | Speedup: 0.5333x | Verify: PASS
+Run  31 | Ref:   220869 | RVV:   510906 | Speedup: 0.4323x | Verify: PASS
+Run  32 | Ref:   225555 | RVV:   654390 | Speedup: 0.3447x | Verify: PASS
+Run  33 | Ref:   216216 | RVV:   523743 | Speedup: 0.4128x | Verify: PASS
+Run  34 | Ref:   223311 | RVV:   521829 | Speedup: 0.4279x | Verify: PASS
+Run  35 | Ref:   216381 | RVV:   488037 | Speedup: 0.4434x | Verify: PASS
+Run  36 | Ref:   222882 | RVV:   536085 | Speedup: 0.4158x | Verify: PASS
+Run  37 | Ref:   225984 | RVV:   519783 | Speedup: 0.4348x | Verify: PASS
+Run  38 | Ref:   215754 | RVV:   522984 | Speedup: 0.4125x | Verify: PASS
+Run  39 | Ref:   225687 | RVV:   497343 | Speedup: 0.4538x | Verify: PASS
+Run  40 | Ref:   323763 | RVV:   517770 | Speedup: 0.6253x | Verify: PASS
+Run  41 | Ref:   218262 | RVV:   501600 | Speedup: 0.4351x | Verify: PASS
+Run  42 | Ref:   264066 | RVV:   572649 | Speedup: 0.4611x | Verify: PASS
+Run  43 | Ref:   218130 | RVV:   652674 | Speedup: 0.3342x | Verify: PASS
+Run  44 | Ref:   229515 | RVV:   506022 | Speedup: 0.4536x | Verify: PASS
+Run  45 | Ref:   227502 | RVV:   522918 | Speedup: 0.4351x | Verify: PASS
+Run  46 | Ref:   220209 | RVV:   546117 | Speedup: 0.4032x | Verify: PASS
+Run  47 | Ref:   230538 | RVV:   526779 | Speedup: 0.4376x | Verify: PASS
+Run  48 | Ref:   221991 | RVV:   598554 | Speedup: 0.3709x | Verify: PASS
+Run  49 | Ref:   223608 | RVV:   511830 | Speedup: 0.4369x | Verify: PASS
+Run  50 | Ref:   228360 | RVV:   535260 | Speedup: 0.4266x | Verify: PASS
+Run  51 | Ref:   219318 | RVV:   523677 | Speedup: 0.4188x | Verify: PASS
+Run  52 | Ref:   225654 | RVV:   518859 | Speedup: 0.4349x | Verify: PASS
+Run  53 | Ref:   222453 | RVV:   505989 | Speedup: 0.4396x | Verify: PASS
+Run  54 | Ref:   220341 | RVV:   531399 | Speedup: 0.4146x | Verify: PASS
+Run  55 | Ref:   221298 | RVV:   510213 | Speedup: 0.4337x | Verify: PASS
+Run  56 | Ref:   222750 | RVV:   690129 | Speedup: 0.3228x | Verify: PASS
+Run  57 | Ref:   519024 | RVV:   512490 | Speedup: 1.0127x | Verify: PASS
+Run  58 | Ref:   218262 | RVV:   494472 | Speedup: 0.4414x | Verify: PASS
+Run  59 | Ref:   224235 | RVV:   590139 | Speedup: 0.3800x | Verify: PASS
+Run  60 | Ref:   223542 | RVV:   526317 | Speedup: 0.4247x | Verify: PASS
+Run  61 | Ref:   220341 | RVV:   540771 | Speedup: 0.4075x | Verify: PASS
+Run  62 | Ref:   226908 | RVV:   503745 | Speedup: 0.4504x | Verify: PASS
+Run  63 | Ref:   224697 | RVV:   507309 | Speedup: 0.4429x | Verify: PASS
+Run  64 | Ref:   226413 | RVV:   528330 | Speedup: 0.4285x | Verify: PASS
+Run  65 | Ref:   226776 | RVV:   520806 | Speedup: 0.4354x | Verify: PASS
+Run  66 | Ref:   227139 | RVV:   524007 | Speedup: 0.4335x | Verify: PASS
+Run  67 | Ref:   219945 | RVV:   522060 | Speedup: 0.4213x | Verify: PASS
+Run  68 | Ref:   216084 | RVV:   493482 | Speedup: 0.4379x | Verify: PASS
+Run  69 | Ref:   222585 | RVV:   508959 | Speedup: 0.4373x | Verify: PASS
+Run  70 | Ref:   221760 | RVV:   517572 | Speedup: 0.4285x | Verify: PASS
+Run  71 | Ref:   223542 | RVV:   521103 | Speedup: 0.4290x | Verify: PASS
+Run  72 | Ref:   220044 | RVV:   525657 | Speedup: 0.4186x | Verify: PASS
+Run  73 | Ref:   230868 | RVV:   514173 | Speedup: 0.4490x | Verify: PASS
+Run  74 | Ref:   226446 | RVV:   533016 | Speedup: 0.4248x | Verify: PASS
+Run  75 | Ref:   229482 | RVV:   503844 | Speedup: 0.4555x | Verify: PASS
+Run  76 | Ref:   219153 | RVV:   524337 | Speedup: 0.4180x | Verify: PASS
+Run  77 | Ref:   307692 | RVV:   502458 | Speedup: 0.6124x | Verify: PASS
+Run  78 | Ref:   234036 | RVV:   553344 | Speedup: 0.4229x | Verify: PASS
+Run  79 | Ref:   226611 | RVV:   534864 | Speedup: 0.4237x | Verify: PASS
+Run  80 | Ref:   223410 | RVV:   507606 | Speedup: 0.4401x | Verify: PASS
+Run  81 | Ref:   232749 | RVV:   528264 | Speedup: 0.4406x | Verify: PASS
+Run  82 | Ref:   236082 | RVV:   561990 | Speedup: 0.4201x | Verify: PASS
+Run  83 | Ref:   237567 | RVV:   534666 | Speedup: 0.4443x | Verify: PASS
+Run  84 | Ref:   231528 | RVV:   523512 | Speedup: 0.4423x | Verify: PASS
+Run  85 | Ref:   236808 | RVV:   533610 | Speedup: 0.4438x | Verify: PASS
+Run  86 | Ref:   363132 | RVV:   528231 | Speedup: 0.6874x | Verify: PASS
+Run  87 | Ref:   264231 | RVV:   565818 | Speedup: 0.4670x | Verify: PASS
+Run  88 | Ref:   233178 | RVV:   523875 | Speedup: 0.4451x | Verify: PASS
+Run  89 | Ref:   219252 | RVV:   492360 | Speedup: 0.4453x | Verify: PASS
+Run  90 | Ref:   222057 | RVV:   513645 | Speedup: 0.4323x | Verify: PASS
+Run  91 | Ref:   317262 | RVV:   513480 | Speedup: 0.6179x | Verify: PASS
+Run  92 | Ref:   225984 | RVV:   518925 | Speedup: 0.4355x | Verify: PASS
+Run  93 | Ref:   222651 | RVV:   537306 | Speedup: 0.4144x | Verify: PASS
+Run  94 | Ref:   398871 | RVV:   636669 | Speedup: 0.6265x | Verify: PASS
+Run  95 | Ref:   220539 | RVV:   498927 | Speedup: 0.4420x | Verify: PASS
+Run  96 | Ref:   225687 | RVV:   521268 | Speedup: 0.4330x | Verify: PASS
+Run  97 | Ref:   220242 | RVV:   512688 | Speedup: 0.4296x | Verify: PASS
+Run  98 | Ref:   234234 | RVV:   513249 | Speedup: 0.4564x | Verify: PASS
+Run  99 | Ref:   228657 | RVV:   649935 | Speedup: 0.3518x | Verify: PASS
+Run 100 | Ref:   228261 | RVV:   527703 | Speedup: 0.4326x | Verify: PASS
